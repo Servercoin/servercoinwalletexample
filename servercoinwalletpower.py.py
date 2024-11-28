@@ -9,7 +9,7 @@ filespacedatapurchasesnum = 1
 loadit = True
 serveramount = 0
 while loadit == True:
-    server = int(input("Do you want to add a server or stop this? 1. for adding a server to the list or 2. for stop this."))
+    server = int(input("Do you want to add a server or stop this? 1. for adding a server to the list or 2. for stopping this."))
     if server == 1:
         servery = input("What is the IP of the server?")
         servers[serveramount]  = servery
