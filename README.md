@@ -1,1 +1,1 @@
- This isn't supposed to be actually used just an example to make it easier to make a servercoin wallet, this thing is quite annoying to use as a wallet.
+ This isn't supposed to be actually used just an example to make it easier to make a servercoin wallet, this thing is quite annoying to use as a wallet. But if it's the only wallet available it's fine if you use it.
