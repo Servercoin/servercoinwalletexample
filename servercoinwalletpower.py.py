@@ -47,10 +47,6 @@ from flask import g
 import sqlite3
 import threading
 import subprocess
-import pyautogui
-import speedtest
-import copy
-import sqlite3
 from cryptography.hazmat.primitives.asymmetric import rsa
 from cryptography.hazmat.primitives import serialization
 from cryptography.hazmat.primitives import hashes
