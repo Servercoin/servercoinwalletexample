@@ -233,7 +233,7 @@ public_pem = public_key3333333.public_bytes(
 )
 print("PUBLICKEY: "+str(public_pem))
 while True:
-   Mode = int(input("1. for start a transaction. 2. for doing file stuff to a servercoin server 3. for doing filespace stuff to a servercoin server 4. for doing VM stuff to a servercoin server. or 5. for stopping this thing. or 6. Get the wallet balance. or 7. Get the filespace balance. or 8. for making the signature to make an account on a servercoinguard server or 9. for adding an ad to a servercoinguard server"))
+   Mode = int(input("1. for start a transaction. 2. for doing file stuff to a servercoin server 3. for doing filespace stuff to a servercoin server 4. for doing VM stuff to a servercoin server. or 5. for stopping this thing. or 6. Get the wallet balance. or 7. Get the filespace balance. or 8. for making the signature to make an account on a servercoinguard server or 9. for adding an ad to a servercoinguard server or 10. for sending coins to a Servercoin wrap system."))
    if Mode == 1:
        amountofcoins = float(input("What is the amount of coins you are using to spend on "))*(10**8)
        amountofcoins=math.floor(amountofcoins)
